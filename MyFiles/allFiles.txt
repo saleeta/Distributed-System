@@ -1,0 +1,10 @@
+FIL~1~1~a.txt~1~0
+FIL~2~1~b.txt~1~0
+FOL~3~1~wow~1~0
+FOL~4~1~wowza~1~0
+FIL~5~3~in.txt~1~0
+FOL~6~1~lol~1~0
+FOL~7~1~trash~1~0
+FIL~8~1~men.txt~1~2
+FOL~9~7~twines~1~0
+FIL~10~9~twinity.txt~1~0
